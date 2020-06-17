@@ -1,10 +1,3 @@
-# Wytyczne do projektu z przedmiotu Bazy Danych 2020
-
-| Kierunek              | Przedmiot   | Semestr | Rok akademicki |
-| :-------------------: | :---------: | :-----: | :------------: |
-| Informatyka Stosowana | Bazy danych | 4       | 2019/2020      |
-
-
 ## Temat
 Tematem projektu jest aplikacja zarządzająca bazą danych przychodni lekarskiej.
 
